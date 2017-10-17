@@ -1,2 +1,2 @@
 # SemVer
-A semantic versioning class
+A semantic versioning class for Groovy
