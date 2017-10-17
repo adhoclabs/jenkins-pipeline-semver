@@ -1,3 +1,7 @@
+#!/usr/bin/groovy 
+
+package org.adhoclabs;
+
 enum PatchLevel {
     MAJOR, MINOR, PATCH
 }
